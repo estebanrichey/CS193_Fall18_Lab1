@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+#Esteban Richey's first CS193 Lab
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,8 +16,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- The opportunity to work with the same tools that professionals use
+- Start building a resume of CS projects
+- Projects that develop meaningful skills.
 
 1. Numbered
 2. List
